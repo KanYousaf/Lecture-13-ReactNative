@@ -2,7 +2,7 @@
 Using Google Maps to get current location and select destination to draw a polyline between origin and destination
 
 ## Google Cloud Console Configuration
-In App.js file to add your API key, you need to get it from Google Cloud platform. The steps to obtain your object are:
+In Maps.js file to add your API key, you need to get it from Google Cloud platform. The steps to obtain your object are:
 1. Go to https://console.cloud.google.com/ and create project
 2. Select **API & Services**, enable Google Maps APIs. 
 3. Select **Creditional** option, to restrict your API key
